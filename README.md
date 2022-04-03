@@ -7,8 +7,8 @@ Utilize VBA coding to quickly and accurately analyze stock data for client.
 ENPH performed very well in both 2017 and 2018 and was traded at the 3rd highest rate of all the stocks showing a high confidence in it's price.
 RUN also had a positive return in both years with it's highest return rate in 2018 and was also traded fairly high as well.
 ENPH and RUN would be the two stocks Steve should recommend for his parents to invest in.
-![2017 Stocks]https://github.com/pminor87/week2_vba_hw/blob/main/02-Stock_Analysis/Submission/Resources/2017_Stocks.png
-![2018 Stocks]https://github.com/pminor87/week2_vba_hw/blob/main/02-Stock_Analysis/Submission/Resources/2017_Stocks.png
+![2017 Stocks](https://github.com/pminor87/week2_vba_hw/blob/main/02-Stock_Analysis/Submission/Resources/2017_Stocks.png)
+![2018 Stocks](https://github.com/pminor87/week2_vba_hw/blob/main/02-Stock_Analysis/Submission/Resources/2017_Stocks.png)
 
 ## Summary
 ### What are the advantages and disadvantages of refactoring code?
